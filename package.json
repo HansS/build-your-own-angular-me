@@ -1,0 +1,26 @@
+{
+  "name": "build-your-own-angular-me",
+  "version": "0.1.0",
+  "description": "build your own angualrjs framweork after the book of tero parviainen",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?"
+  },
+  "keywords": [
+    "angularjs",
+    "tero",
+    "parviainen"
+  ],
+  "author": "tero parviainen",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.11.0"
+  }
+}
